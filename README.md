@@ -45,6 +45,14 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@alexmedinasf](https://github.com/alexmedinasf)
 
+👤 **Kelvin Benjamin**
+
+- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
+
+👤 **Koami Nogbedjin**
+
+- GitHub: [@hopeforkoami](https://github.com/hopeforkoami)
+
 
 ## 🤝 Contributing
 
