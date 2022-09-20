@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Alexandre Ferreira**
 
-- GitHub: [@alexmedinasf](https://github.com/alexmedinasf)
+- GitHub: [@alexmedinasf](https://github.com/Kelvin-Ben)
 
 
 ## 🤝 Contributing
